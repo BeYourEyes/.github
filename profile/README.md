@@ -1,6 +1,7 @@
 # 📱 당신의 안식 BeYourEyes 어플리케이션 
-노인을 위한 영양정보 제공 앱 
-<br>
+
+<br><br>
+<img width="1024" alt="그래픽 이미지(중앙 정렬)@2x" src="https://github.com/user-attachments/assets/89f5f084-cc82-4382-b913-e81f52e9082c" />
 
 ## 당신의 안식
 ### 👀나만의 영양 맞춤 정보를 한눈에!
@@ -43,6 +44,10 @@
       <strong>이소영</strong><br>
 <a href="https://github.com/jordan-comlinee">@jordan-comlinee</a>
      <p>Android</p>
+    </td>
+   <td align="center">
+      <strong>이수림</strong><br>
+     <p>UI/UX Design</p>
     </td>
   </tr>
 </table>
