@@ -19,6 +19,21 @@
  
 <br>
 
+## 🧁 Design
+
+#### Check both versions in [link](https://www.figma.com/design/qLpKu5KxPhngqKwVxJr9bW/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84-(Copy)?node-id=782-34&t=4Nntm4iGEgddV7pW-1)! - Ver 1.0 & Ver 2.0
+
+![Design](https://github.com/user-attachments/assets/01db482e-9612-4286-8669-61e6939183d3)
+<br>
+
+## 🍰 Logics
+![Logics](https://github.com/user-attachments/assets/ac7a5105-0906-455a-a7dc-404b68a31772)
+<br>
+
+## 🍨 Time Table
+
+#### WBS
+![WBS](https://github.com/user-attachments/assets/ee0aa501-c1b9-45b0-b31d-17cec0a14d4e)
 
 
 ## 🧑‍🍳 Contributers
