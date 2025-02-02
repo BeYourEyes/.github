@@ -32,10 +32,10 @@
 <br>
 ## 🍰 version 2 Logics
 ### 영양소 추출 로직 개선
-#### 개선 전
+#### 🔥 개선 전
 ![개선 전](https://github.com/user-attachments/assets/970fb7b1-1c39-4a2a-b4f5-6568788716b7)
 
-#### 개선 후
+#### 🔥 개선 후
 ![개선 후](https://github.com/user-attachments/assets/aab7b7d8-815f-4696-8c25-f9eeefe85bf0)
 
 ## 🍨 Time Table
