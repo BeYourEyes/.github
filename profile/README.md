@@ -63,7 +63,7 @@
     <td align="center">
       <strong>이수진</strong><br>
 <a href="https://github.com/Soojin-Lee-01">@Soojin-Lee-01</a>
-     <p>Android</p>
+     <p>Android / Server</p>
     </td>
     <td align="center">
       <strong>이소영</strong><br>
